@@ -11,4 +11,4 @@ Make the rectangular ball hit the bricks. A pad at the bottom of the screen move
 
 ## UI
 
-![](https://github.com/singhdivyank/Brick-breaker-game/blob/main/UI.png)
+![](Brick Breaker Game/UI.png)
